@@ -1,2 +1,2 @@
 # myrepo
-Test R
+Test set up for RStudio
